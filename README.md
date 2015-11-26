@@ -1,2 +1,2 @@
 # Power Shell Scripts
-Azure PowerShell scripts to manage HUB v3 databases
+Azure PowerShell scripts to manage Azure databases
